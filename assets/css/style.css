@@ -69,3 +69,20 @@ td {
     padding: 5px;
     font-weight: bold;
 }
+.navbarcontent {
+    background-color: red;
+    height: 5%;
+    text-align: center;
+    padding: .5em
+}
+li {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    display: inline;
+  }
+  li:hover {
+    background-color: #111;
+  }
